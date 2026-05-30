@@ -107,6 +107,3 @@ function App() {
 }
 
 export default App;
-// example comment to test github
-
-// another comment to test github
